@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An olive-leaf: or, Some peaceable considerations to the Christian meeting at Christs-Church in London, Munday, Jan. 9. 1653. Also, the reign of Christ, and the saints with him, on earth, a thousand yeers, one day, and the day at hand. By William Erbery.</title>
+            <author>Erbery, William, 1604-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84078</idno>
+            <idno type="STC">Wing E3236</idno>
+            <idno type="STC">Thomason E726_5</idno>
+            <idno type="STC">Thomason E729_10</idno>
+            <idno type="STC">ESTC R206777</idno>
+            <idno type="EEBO-CITATION">99865883</idno>
+            <idno type="PROQUEST">99865883</idno>
+            <idno type="VID">166835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166835)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E726[5]; 112:E729[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An olive-leaf: or, Some peaceable considerations to the Christian meeting at Christs-Church in London, Munday, Jan. 9. 1653. Also, the reign of Christ, and the saints with him, on earth, a thousand yeers, one day, and the day at hand. By William Erbery.</title>
+                  <author>Erbery, William, 1604-1654.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>by J. Cottrel.,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy E.726[5]: "Jan: 12 1653"; the 4 in the imprint date has been crossed out; on E.729[10]: "Feb: 14"; the 4 in the imprint date has been crossed out and replaced with a "3".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+                  <note>Appears at reel 726 (E.726[5]), and at reel 729 (E.729[10]).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Early works to 1800.</term>
+               <term>Saints --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166835:1" rendition="simple:additions"/>
+            <p>An Olive-leaf: OR, Some Peaceable CONSIDERATIONS To the CHRISTIAN MEETING at Chriſts-Church in <hi>London,</hi> Munday, <hi>Jan.</hi> 9. 1653. ALSO, The Reign of CHRIST, and the SAINTS with him, On Earth, A Thouſand yeers, One day, and the day at hand.</p>
+            <p>By <hi>William Erbery.</hi>
+            </p>
+            <q>And I will cut off the chariot from Ephraim, and the horſe from Jeruſalem; and the battle-bow ſhall be cut off: and he will ſpeak peace to the heathen; and his dominion ſhall be from ſea to ſea, and from the river, even to the ends of the earth. <bibl>
+                  <hi>Zach. 9.10.</hi>
+               </bibl>
+            </q>
+            <p>Imprinted at <hi>London,</hi> by <hi>J. Cottrel.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166835:2"/>
+            <pb n="1" facs="tcp:166835:2"/>
+            <head>For Mr. <hi>Rogers,</hi> Mr. <hi>Powel,</hi> and the reſt of the good People of Chriſt-Church.</head>
+            <opener>
+               <salute>Chriſtian Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am forced in Spirit to ſpeak, though in much affliction and fear to offend, either to hurt the weak or harden the ſtrong.</p>
+            <p>'Tis a mercy to you, and a <hi>Myſtery of Providence</hi> to bring you from <hi>Black-Fry<g ref="char:EOLhyphen"/>ers</hi> to <hi>Chriſts-Church,</hi> for as the face of <hi>blackneſs</hi> hath lately appeared on your <hi>fellowſhips:</hi> ſo ſome have lookt (though I do not) on your actings as Jeſuitical, and a <hi>Fryerly-Spirit,</hi> in your publique ſpeakings againſt the <hi>preſent Powers:</hi> for as <hi>Luther</hi> himſelf never declaimed againſt the Pope, as a <hi>ſecular Prince,</hi> but as a <hi>ſpiritual Lord:</hi> ſo the people of God ever ſince have been ſilent in their ſufferings under <hi>Civil Govern<g ref="char:EOLhyphen"/>ments,</hi> though <hi>Church-Governors</hi> have fallen even by this, their medling with State-matters and muttering abroad things they know not.</p>
+            <p>For as the Prophet ſaith, <hi>Your own breath as fire ſhall devour you,</hi> Iſa. 33.11. So <hi>Church-rulers</hi> being fired by their approaching fall, fell by their <hi>own breath:</hi> the Biſhops or Prelates, (whom no<g ref="char:EOLhyphen"/>thing could throw down, but their own proteſting againſt the Houſe of Lords acting in their abſence) were caſt and caught in a Pre<g ref="char:EOLhyphen"/>munire
+<pb n="2" facs="tcp:166835:3"/>againſt the King. Thus the Presbyters were judged for com<g ref="char:EOLhyphen"/>plying with the <hi>Scots,</hi> and preaching againſt the Engliſh Parlia<g ref="char:EOLhyphen"/>ment; This ſome Independent Paſtors alſo oppoſed in their publique teachings before, therefore their own Parliament was diſſolved, and another Power is riſen which becauſe they ſee not in the Lord, there<g ref="char:EOLhyphen"/>fore they ſpeak againſt it; and ſo their <hi>own breath has devoured them.</hi>
+            </p>
+            <p>God is my witneſs, I ſpeak not to divide brethren, nor to diſ<g ref="char:EOLhyphen"/>favour any Saints with the State, nor yet to fawn on the higheſt in Power: but that you and I may retire into the inner World<g ref="char:punc">▪</g> and not dwell in the <hi>outward Court, which is given to the Gentiles<g ref="char:punc">▪</g>
+               </hi> nor to expect the <hi>reigne of the Saints with Chriſt in outward glory and Government.</hi> Rev. 11.2, 17, 18.</p>
+            <p>'Twas much upon my ſpirit then to reply to what I heard from you both at Chriſts-Church, but I would not trouble your publique meeting.</p>
+            <p>Mr. <hi>Rogers</hi> ſpake from <hi>Jer.</hi> 42.20. <hi>Ye diſſembled in your hearts, when ye ſent me unto the Lord your God, ſaying, Pray for us,</hi> &amp;c.</p>
+            <p>This he interpreted as the <hi>diſſembling of ſome in Power to aske the prayers</hi> of the Prophets and people of God in their troubles, who now act contrary to their own profeſſed purpoſes of no perſonal rule, and contrary to their promiſes of Remonſtrated Liberty to all.</p>
+            <p>This ſeemed a ſmart reflection: but let me anſwer a word, not for Men, but for the Lord in them; nor yet againſt Man, but for the Lord in you, my Brethren.</p>
+            <list>
+               <item>Firſt, It was on my heart to ask you, Are you the Prophets of the Lord as <hi>Jeremiah</hi> was, or are ye Miniſters of the Goſpel, as <hi>Paul,</hi> &amp;c?</item>
+               <item>Secondly, Do you ſpeak of the People of God as confined to your own gathered Churches, or the People of God ſcattered in the Nation?</item>
+               <item>Thirdly, Were your thoughts theirs; or were they all taken up with you in the Parliament lately diſſolved?</item>
+               <item>Fourthly, Did not the People of God in general pray, or waite for, not what was to be ſet up as a Crown on the head of a particular party, or ſect, but what might (with God) ariſe for the good of the Saints, and Nation in common?</item>
+               <pb n="3" facs="tcp:166835:3"/>
+               <item>Fifthly, Not to make compariſons or parties again, is not th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> appearance of God as glorious in the 7000 Saints ſcattered and ſecret in Iſrael, as thoſe in gathered Churches, though the Prophet knows not, nor ownes all the hidden ones of the Lord? 1 <hi>King.</hi> 19 18.</item>
+               <item>Sixthly, Not to offend Mr. <hi>Rogers;</hi> did he ſpeak by a Prophe<g ref="char:EOLhyphen"/>tick or an Apoſtolique Spirit? were his laſt Propoſals to the <hi>Parli<g ref="char:EOLhyphen"/>ament,</hi> or now to the <hi>Lord Protector,</hi> ſuitable to a <hi>Goſpel-State,</hi> which he profeſſeth? I am ſure his former Propoſals for way of Go<g ref="char:EOLhyphen"/>vernment were meerly <hi>legal,</hi> and far below that <hi>glory</hi> the Saints are waiting for in themſelves, and to the nation alſo. <hi>Zach.</hi> 12.7, 8.</item>
+               <item>Seventhly, Let me aske, Is it according to the order of the Goſpel, for <hi>Miniſters</hi> of Chriſt to meddle with <hi>Civil Government,</hi> ſeeing <hi>his Kingdome is not of this World?</hi> Joh. 18.36. Luk. 22. 25.</item>
+               <item>Eightly, Did ever the <hi>Miniſters</hi> of the Goſpel ſpeak againſt Prin<g ref="char:EOLhyphen"/>cipalities and Powers, though as bad as <hi>Nero?</hi> Rom. 13.1, 2. <hi>&amp;c.</hi> 1 Tim. 2.2. Titus 3.1, 2. 1 Pet. 2.13, 14.</item>
+               <item>Ninthly, Doth Civil Government concern the glory of the Go<g ref="char:EOLhyphen"/>ſpel? is <hi>Monarchy in a King</hi> any more againſt the reigne of Chriſt, then <hi>Ariſtocracy in a Parliament?</hi> is not the <hi>State of Holland, and Commonwealth of Venice,</hi> as much for Antichriſt, as <hi>the King of France or Spaine?</hi> Iſa, 19.11, 13<g ref="char:punc">▪</g> compared.</item>
+               <item>Tenthly, Will not Chriſt when he comes to reigne <hi>put down all Authority, power and Rule?</hi> not onely Monarchical Authority, but Ariſtocratical Power, and Democratick Rule? not that Rulers ſhall not be over Men, but God <hi>alone will appear to be King over All.</hi> Pſal 72.11.</item>
+               <item>Eleventhly, When God ſhall be all in all, there ſhall be but <hi>one King in all the Earth, and his name one.</hi> Zach. 14.9. then the names of Presbyter, Independant, and Anabaptiſt ſhall ceaſe in the <hi>Church,</hi> yea, the names of <hi>Cavaleer, Roundhead,</hi> and <hi>Ro<g ref="char:EOLhyphen"/>maniſt</hi> ſhall be no more heard in the <hi>Commonwealth.</hi>
+               </item>
+               <item>Twelfthly, Is it not for peace, to ſatisfie all intereſts, and to ſement the divided Spirits of the Nation, that all Engliſhmen ſhould be<g ref="char:EOLhyphen"/>come as one, when none ſhall be received before other? You ſay that the worſt of men ſpeak well of the preſent Government; and is it not well? and a fair way for peace and love?</item>
+            </list>
+            <pb n="4" facs="tcp:166835:4"/>
+            <p>As for my deer Countryman Mr. <hi>Powels</hi> preaching, I could not but cleave to his peaceable ſpirit at the end of his Sermon, perſwading his brethren to meddle no more with <hi>Civil matters,</hi> but to ſpeak of <hi>ſpiritual glories,</hi> which he held forth in the <hi>Reigne of Chriſt, and the Saints with him on Earth.</hi>
+            </p>
+            <p>But becauſe (me thought) my Brothers conceits were too carnal and earthly of this heavenly myſtery, and beſides he gave me leave to object, I ſhall <hi>in meekneſs and fear, give a reaſon of the hope that is in me</hi> concerning this.</p>
+            <list>
+               <item>Firſt, 'Tis plain that <hi>Chriſt is a myſtery</hi> which he and I do not yet <hi>cleerly know,</hi> nor can <hi>manifeſt unto men,</hi> having not the <hi>ma<g ref="char:EOLhyphen"/>nifeſtation of the Spirit,</hi> given to the Apoſtles and primitive Churches. <hi>Eph.</hi> 2.5. <hi>Col.</hi> 1.27.</item>
+               <item>Secondly, <hi>Chriſt in us the hope of glory</hi> being that <hi>myſtery of God</hi> not to be <hi>finiſhed till the ſeventh Trumpet</hi> blow, What can he or I ſay to this, unleſs we have heard the <hi>ſound thereof?</hi> Rev. 10.7.</item>
+               <item>Thirdly, Though he ſpeak with conſidence, yet can I but in much confuſion declare, that, as Chriſt in the fleſh was none other but <hi>the mighty God even the Father? glory manifeſt in fleſh:</hi> ſo Chriſt in the Spirit, or Chriſt in us, is <hi>God manifeſt in our fleſh as in his.</hi> Iſa. 9.6. Joh. 14.9.10 20. ver.</item>
+               <item>Fourthly, <hi>Chriſt in us the hope of glory</hi> is this to me, that the <hi>Glory he had with God before the world</hi> (though vailed in his fleſh while living) (yet after that his pure fleſh was ſacrificed and ſlaine unto God by death) was fully revealed in the Reſurrection; and he raiſed to glory was this in truth, even <hi>God raiſed, and his glory fully revealed in him.</hi> Pſal. 68.1, 18. 1 Pet. 1.20, 21.</item>
+               <item>Fifthly, Chriſt was raiſed a ſpiritual body and though nothing but fleſh appeared to his Diſciples, (not able to behold his glory) yet that he was a <hi>ſpiritual and glorious body</hi> indeed, appeares by this, that our bodies ſhall be ſpiritual alſo in the myſtery of the Re<g ref="char:EOLhyphen"/>ſurrection, much more was his body ſpiritual when raiſed: 1 <hi>Cor.</hi> 15.44, 51.</item>
+               <item>Sixthly, <hi>Therefore Chriſt in us is called the Hope of Glory,</hi> becauſe God being in our fleſh as in his, we have hereby hope, to be <hi>raiſed up in the ſame glory</hi> or heavenly Image, and to <hi>attain to the Reſurrection of the dead:</hi> that God even the Father may
+<pb n="5" facs="tcp:166835:4"/>
+                  <hi>fully appeare in our fleſh as in him</hi> raiſed from death; that <hi>God may be all in all.</hi> Phil. 3.10, 11, 12, 14. Joh. 17.22, 24.</item>
+               <item>Sevently, As the <hi>Captain of our ſalvation was made perfect by ſuffering,</hi> and Chriſt through <hi>ſuffering entered into Glory:</hi> ſo in the <hi>fellowſhip of his ſufferings</hi> in our fleſh, we come to the <hi>power of his Reſurrection,</hi> and appearance of that glory in us, Heb. 2.10. Heb. 5.8.9.</item>
+               <item>Eighthly, Therefore as the Apoſtle ſaith, <hi>If the Spirit of him who raiſed up Jeſus from the dead dwell in you, he that raiſed up Jeſus from the dead ſhall alſo quicken your mortal bodies:</hi> ſo ſaith he again, <hi>Alwaies bearing in our bodies the dying of the Lord Jeſus, that the life of Jeſus may be manifeſt in our mortal fleſh.</hi> Rom. 8.11. 2 Cor. 4.10, 11.</item>
+               <item>Ninthly, This ſhews that as the Spirit of Jeſus or power of God in our fleſh, is ſtill ſlaying and crucifying it that we <hi>dye dayly:</hi> ſo the <hi>raiſing and quickning of our mortal bodies</hi> is, when <hi>the life of Jeſus</hi> appeares, (not onely after death) but even in our <hi>mortal fleſh,</hi> while we live, or while our fleſh is mortal. Yet as Chriſts life (when raiſed) was onely in the Father: ſo ſhall ours be in the Reſurrection, though we live in the fleſh, our life ſhall be in the Fa<g ref="char:EOLhyphen"/>ther alone, <hi>Joh.</hi> 14.20.</item>
+               <item>Tenthly, As Chriſt when raiſed began to reign, God exalting him at his right hand to be a Prince and a Saviour, and to give forth the Spirit on the Saints: ſo the <hi>Saints reign</hi> with Chriſt muſt needs be in the Spirit alſo. <hi>Acts</hi> 5.31. 2 <hi>Tim.</hi> 2.12.</item>
+               <item>Eleventhly, 'Tis no earthly Government or wordly glory is pro<g ref="char:EOLhyphen"/>miſed to the Saints, but as in <hi>the blood of the Lamb they over<g ref="char:EOLhyphen"/>come,</hi> &amp;c. ſo by that blood ſhed forth in them they <hi>are redeemed from among men,</hi> and reigne to God. <hi>Rev.</hi> 12.11.</item>
+               <item>Twelfthly, Therefore 'tis ſaid, <hi>Rev.</hi> 5.10. <hi>He hath made us to our God Kings and Prieſts, and we ſhall reigne on the Earth:</hi> that is, thou the <hi>Lamb ſlain</hi> in us. v. 6. and by thy <hi>blood</hi> v. 9.</item>
+            </list>
+            <p>For as we are <hi>made Kings to our God</hi> (not over men) ſo we muſt <hi>be Prieſts</hi> too, ſacrificing and ſlaying (not men) but all that is ſelf in us, unto God, for the good of men, and not our own. There<g ref="char:EOLhyphen"/>fore in the reign of the Saints with Chriſt a thouſand yeers, <hi>they are made Prieſts of God, and of Chriſt.</hi> Rev. 20.6.</p>
+            <p>Whether Chriſt ſhall come to reign perſonally in fleſh, and how,
+<pb n="6" facs="tcp:166835:5"/>I know not: but that he ſhall come in fleſh again (as you ſaid) I queſtion, if it be not far from that ſpiritual appearance promiſed. <hi>Zech.</hi> 14.5.9.</p>
+            <list>
+               <item>1. For if it be now a Spiritual body, what's the fleſhly one you ſpeak ſhall appear?</item>
+               <item>2. If he come again on earth in fleſh, how can he appear to all the Saints at once? for <hi>the coming of the Son of man ſhall be as lightning ſhining from eaſt to weſt. Matth.</hi> 24.27.</item>
+               <item>3. A fleſhly body can be but circumſcriptively in one place at once; therefore to meet with all the Saints then on earth, Chriſt muſt move ſwifter then the ſun, here and there; not onely from Eaſt to Weſt, but everywhere, North and South.</item>
+               <item>4. What his ſpiritual body is, I may ſhew you (with God) ano<g ref="char:EOLhyphen"/>ther time; and how in all places and perſons, though it appear not as yet.</item>
+               <item>5. How <hi>Jeſus came in like manner</hi> to the diſciples, as they <hi>ſaw him go into heaven,</hi> (Acts 1.11.) was told you in the <hi>Call to the Churches,</hi> the Letter to Mr. <hi>Vavaſor Powel.</hi>
+               </item>
+               <item>6. For thoſe <hi>men of Galilee</hi> (as is there ſaid) ſhould ſee him; that is, they while living: for after death, when he comes the laſt day (as they ſay) he will be come down before they can ſee him coming; therefore they cannot <hi>ſee him coming down in the ſame manner as he was taken up into heaven,</hi> he being come down (as I ſaid) be<g ref="char:EOLhyphen"/>fore, to raiſe them. 1 <hi>Theſ.</hi> 4.16, 17.</item>
+               <item>7. Again, <hi>After a little while ye ſhall not ſee me</hi> (in fleſh) and <hi>after a little while ye ſhall ſee me</hi> (in ſpirit:) therefore the ſight of him was ſpiritual; for his fleſhly appearance that men expect at the laſt day, was not a <hi>little,</hi> but a long time to come. <hi>Joh.</hi> 16.19.</item>
+               <item>8. Laſtly, <hi>I will not leave you comfortleſs,</hi> (or Orphans) <hi>I will come unto you. Yet a little while, and the world ſeeth me no more; but ye ſee me.</hi> How? <hi>Becauſe I live, ye ſhall live alſo.</hi> That is, when that ſpirit or power of God in me, ſhall appear in you, ye (though living in the fleſh) ſhall ſee your life in the Father a<g ref="char:EOLhyphen"/>lone: for, <hi>in that day ye ſhall know that I am in the Father, and you in me, and I in you. Joh.</hi> 14.18, 19, 20.</item>
+            </list>
+            <p>Sir, you had three diſtinctions of the Reign of Chriſt: I'll tell you a fourth from your own.
+<list>
+                  <item>1. Providential, over the Nations.</item>
+                  <pb n="7" facs="tcp:166835:5"/>
+                  <item>2. Spiritual, over the Church.</item>
+                  <item>3. Monarchical, over the Church and Nations together.</item>
+               </list>
+               <hi>Zach.</hi> 14.8.9, 11. compared.</p>
+            <p>But this Monarchical Government of Chriſt, and the Saints of the moſt High with him, will not be in Wordly Government and glo<g ref="char:EOLhyphen"/>ry; but when God ſhall <hi>ſtaine the pride of all glory,</hi> and bring to <hi>contempt all the honourable of the Earth,</hi> when God <hi>ſhall con<g ref="char:EOLhyphen"/>found, or cloud all Worldly Government,</hi> and <hi>groſs darkneſs ſhall cover the people;</hi> then ſhall the Saints of the moſt high <hi>ariſe, or ſhine, and raign in glory.</hi> Compare theſe Scriptures, <hi>Iſa.</hi> 60.1, 2. and ſee what confuſion in <hi>Iſa.</hi> 24.1 to 22. in that <hi>confuſion of heavenly lights, and earthly hoaſts of the high ones,</hi> the <hi>Lord of hoſts ſhall raign in Mount Zion,</hi> &amp; before <hi>his ancients gloriouſly.</hi> v. 23.</p>
+            <p>So <hi>Dan.</hi> 7. when the Lord comes, <hi>the Thrones are caſt down,</hi> v. 9. for his <hi>Throne is the fiery flame, and his Wheels as burning fire a fiery ſtream iſſueth and comes forth from before him.</hi> v. 10.</p>
+            <p>Oh this fiery appearance of God in the Saints, will frighten and cauſe to fall all the proud ones or Powers of the earth, and that <hi>King eſpecially who comes after the ten Kings, who is diverſe from the firſt, and who ſhall ſubdue three Kings (or Kingdomes)</hi> even <hi>he who ſhall ſpeak great words againſt the moſt High (in his Saints) and ſhall weare out the Saints of the moſt High.</hi> v. 25.</p>
+            <p>The Saints of the moſt High are not thoſe who are falſly accuſed, as living above Ordinances, for they are far below them<g ref="char:punc">▪</g> but thoſe who live above earthly things in the Lord alone. Theſe are ſaid, not to be waſted and worried by the laſt King, but he ſhall <hi>wear them out, wear out their Spirits,</hi> in waiting for that <hi>righteouſneſs which appeares not,</hi> for that Truth and peace, pity, tenderneſs, mer<g ref="char:EOLhyphen"/>cy, juſtice, and goodneſs waited for in good men when they come to reigne: but all this will be in the <hi>reigne of Chriſt,</hi> when <hi>God alone ſhall reign in Men.</hi> Pſal. 72.1, 2, 3 4 12, 13.</p>
+            <p>But theſe two things I obſerve from <hi>Daniel.</hi> Firſt, <hi>that the greatneſs of the Kingdom under the whole Heaven ſhall be given to the people of the Saints of the moſt high.</hi> v. 27. not that the Saints of the moſt high ſhall be in outward Government, and regal Authority, as other Princes have been<g ref="char:punc">▪</g> but when <hi>the greateſt and moſt glorious Kingdoms and Commonwealths ſhall be ſo ſhaken, and torn, and tatter'd, ſo divided and daſht in pieces</hi> that <hi>no man will</hi> take up a Crown in the Streets; then <hi>judgement ſhall be given
+<pb n="8" facs="tcp:166835:6"/>to the Saints,</hi> (they ſhall have a ſpirit of judgement to diſcern a<g ref="char:EOLhyphen"/>right of Rule and Government) and <hi>the Saints ſhall poſſeſs the Kingdom.</hi> v. 22. that poor thing, a Kingdom, which no man would take up or be troubled with, that the Saints ſhall take, <hi>v.</hi> 18. and <hi>poſſeſs in peace</hi> living in God above all the powers of man above all confuſions and changes, and above all the trouble on earth. <hi>v.</hi> 25. for <hi>Daniels cogitations were troubled, and his countenance changed, to thinke</hi> of thoſe evils approaching in the laſt times unto men, and mighty ones. <hi>v.</hi> 28.</p>
+            <p>The ſecond thing I obſerve from <hi>Daniels</hi> words, is this, that the <hi>Kingdom there ſpoken of, is an everlaſting Kingdom.</hi> v. 25. <hi>and the Saints ſhall poſſeſs the Kingdom for ever, even for ever and ever.</hi> v. 18.</p>
+            <p>Hence I gather, that the reigne of Chriſt and <hi>the Saints, for a thouſand years, is a myſtery,</hi> Rev. 20.6. for his Kingdome is for ever: and truely 'tis marvailous to me, that ſo many Saints ſhould interpret <hi>the thouſand years</hi> ſo carnally, when themſelves confeſs, that all the Revelation beſides, is a myſtery, or ſpiritual ſecret. Yet <hi>the thouſand</hi> muſt needs be ten hundred yeers juſt.</p>
+            <p>But if <hi>one day with God be a thouſand yeers, and a thouſand yeers as one day,</hi> why may not the <hi>day of God</hi> (called that <hi>one day</hi>) be the <hi>thouſand yeers?</hi> Zach. 14.7. 2 Pet. 3.8.</p>
+            <p>Again, as the <hi>dead in Chriſt riſe firſt:</hi> ſo <hi>the ſouls</hi> (not of all the Saints, but of ſome) and not the bodies, but the <hi>ſouls of thoſe who are beheaded for the witneſs of Jeſus, and for the word of God, and which have not worſhipped the beaſt, neither his Image, neither had received his marke upon their foreheads nor in their hands,</hi> (who conform not to any falſe Miniſtery, nor Church, nor corrupt thing) <hi>Theſe lived and reigned with Chriſt a thouſand yeers.</hi>
+            </p>
+            <p>What God hath taught me herein, I may tell you another time: onely now, becauſe the <hi>preſent Government</hi> is judged with ſo much <hi>diſſembling and breach of Vowes,</hi> Let me end with this brief Apology, not for man, (as I ſaid before) but for the mighty God, who hath appeared ſo gloriouſly in them, and in former Parlia<g ref="char:EOLhyphen"/>ments, and in Army too, that he <hi>hath ſtained the pride of all glory, and the glory of all fleſh,</hi> tumbling the earth upſide down, and toſſing to and fro the Government thereof, that nothing but
+<pb n="9" facs="tcp:166835:6"/>confuſion hath appeared; what <hi>certainty</hi> then can be expected in ſuch <hi>changes?</hi> what <hi>order</hi> in <hi>confuſion?</hi> yea what <hi>Truth,</hi> when God is making man <hi>a lye?</hi> Iſa. 40.6, 7, 13, to 17. what <hi>Oaths of Al<g ref="char:EOLhyphen"/>legiance?</hi> what <hi>Covenants</hi> broken? yet in both, hands have been lifted up to Heaven by honeſt hearts: what <hi>Proteſtations, Re<g ref="char:EOLhyphen"/>monſtrances, and Engagements</hi> are gone and vaniſhed? Firſt we were all for the <hi>King,</hi> then for <hi>none,</hi> yet for <hi>King and Parliament</hi> we fought, then for <hi>neither:</hi> once we profeſſed for <hi>the houſe of Lords,</hi> but theſe were peſently laid aſide: then for the <hi>Commons</hi> onely, and yet not for that, but for a <hi>Parliament or Repreſentative;</hi> this diſ-appeares alſo: and now for <hi>King and Parliament</hi> again, and yet for <hi>neither;</hi> for all is <hi>nothing,</hi> becauſe God is <hi>all in all.</hi> Iſa. 40.17.</p>
+            <p>Oh <hi>ceaſe ye from man, whoſe hreath is in his noſtrils, for wherein is he accounted of?</hi> and let the Lord alone be exalted, whoſe <hi>day being upon every high Tower, and upon every high thing,</hi> to throw it down, let all the people of God, even <hi>the higheſt,</hi> be humble, lye low as may be, leſt they fall at laſt, lower then any people or <hi>Princes.</hi> Iſa. 2.6, to 22.</p>
+            <p>And if it be poſſible that the people of God can be quiet, and ſit ſtill in peace, <hi>under their own Vine and Figtree,</hi> waiting for the glorious appearance of the great God and Saviour in themſelves; that <hi>the Nations</hi> about may be brought in and ſaved at laſt, <hi>and joyne to the Lord with them.</hi> Zach. 2.10 11 Rev. 21.24.</p>
+            <p>And ſeeing the <hi>Princes of Iſrael</hi> begin to appear, and the <hi>people of God are in preſent power</hi> (as 'twas never before) I hope they will hear what has been ſaid by their <hi>brethren,</hi> though carried forth with much <hi>zeal,</hi> which (being according to <hi>their knowledge,</hi> and that knowledge the <hi>light of God</hi> in them, and they led forth with that <hi>boldneſs,</hi> and that <hi>forbearance</hi> appearing in the <hi>powers</hi> alſo, and ſuch <hi>peace and love</hi> ſtill abiding in both) tells me, that theſe <hi>Wars and wranglings</hi> will ſhortly ceaſe in the Nation, in which God will ſo appear with <hi>power and glory,</hi> that all the nations about ſhall be <hi>broken, or brought in</hi> with us at laſt to the Government of Jeſus.</p>
+            <p>That is, when God alone ſhall reigne in Men, and Men reigne in Righteouſneſs and Righteouſneſs ariſe in Truth, then ſhall the Royal law, and rule of Chriſt in love be followed: That Men and Magiſtrates
+<pb n="10" facs="tcp:166835:7"/>
+               <hi>ſhall do to all as they would be done unto,</hi> or rather, <hi>do to Men as God would.</hi> That's the <hi>Reign of Chriſt and God in Men.</hi>
+            </p>
+            <p>Till then, <hi>Remove the Diadem and take off the Crown; this ſhall not be the ſame: exalt him that is low, abaſe him that is high. I will overturn, overturne, overturne, and it ſhall be no more, until he come whoſe right it is, and I will give it him.</hi> Ezek. 21.26, 27.</p>
+            <epigraph>
+               <q>
+                  <hi>He ſhall judge the Poor of the people,</hi> he <hi>ſhall ſave the Children of the needy, and breake in peices the Oppreſſor.</hi>
+               </q>
+               <bibl>Pſal. 72.4.</bibl>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
